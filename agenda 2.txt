@@ -1,0 +1,48 @@
+installation
+
+how to create with npm 
+
+pre-req:
+
+1.node.js(npm + babel) 
+
+2. npm - node package manager
+
+3.babel 
+
+
+how to create fst app :
+fst method:
+1. npm install -g create-react-app
+2.create-react-app projname
+
+scnd method:
+
+1. npx create-react-app projname
+
+run :
+npm start
+
+how to use packages.
+
+react 
+reactdom
+babel
+
+
+basic programs
+
+components
+
+
+
+
+
+
+
+
+
+
+
+
+

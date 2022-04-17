@@ -1,0 +1,45 @@
+git - local machine
+
+github - repo(user accnt)
+
+
+
+mkdir dirname
+
+git init - folder /dir we are going to init the git app in this folder
+
+
+ls - listing all folders files
+
+cd - change directory
+ cd dirname 
+cd
+
+git add filename - it mves oly the partic file to staging
+git add -A - move all the files
+
+
+
+work dir - staging (modify) - commit - repo
+
+
+
+master -> created branch(copy) - modify - staging () - commit - master 
+
+
+master - wil be org copy
+brach (slave_ - new changes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+master (org) - create branch (copy) 
